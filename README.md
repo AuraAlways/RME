@@ -1,14 +1,3 @@
-## RME Exploit
------------------------------------
-Theatre Infections / RME [X360]
-
-Provided By Aura / Kyle
-
-OnyxAPI.Online
-
-Still On The 360 lol?
------------------------------------
-
 Requirements:
 
 Visual Studio 2010 Ultimate
